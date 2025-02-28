@@ -22,7 +22,11 @@ h4 {
     font-weight: normal;
 }
 
-a:visited, a:active, a:focus a:hover {
-    color: inherit; /* or set to a color you prefer */
-    text-decoration: none; /* Optional, to remove underline if present */
+a:visited,
+a:active,
+a:focus a:hover {
+    color: inherit;
+    /* or set to a color you prefer */
+    text-decoration: none;
+    /* Optional, to remove underline if present */
 }
